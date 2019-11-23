@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Given user redirect to &quot;/cari&quot;
+When user type a wrong location(typo)
+Then the result will appear as the closest to the typo words</description>
+   <name>Search Kos using Typo words</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02872ec9-279b-4a19-acdd-12774bfe2511</testCaseGuid>
+</TestCaseEntity>
